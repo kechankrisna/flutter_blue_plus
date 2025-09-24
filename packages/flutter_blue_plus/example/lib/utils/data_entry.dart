@@ -21,7 +21,7 @@ class DataEntry {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.stretch,
                   mainAxisSize: MainAxisSize.min,
-                  spacing: 4,
+                  // spacing: 4,
                   children: [
                     ValueListenableBuilder(
                       valueListenable: isHex,
